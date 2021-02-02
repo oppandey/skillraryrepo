@@ -1,5 +1,8 @@
 # Prerequisites
 *.d
+*.class
+*.dll
+*.exe
 
 # Object files
 *.o
